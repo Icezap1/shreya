@@ -1,0 +1,51 @@
+.main{
+    height: 210px;
+    width: 320px;
+    border: 1px solid black;
+    
+    display: flex;
+}
+.A{
+    height: 200px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 2px;
+    text-align: center;
+    
+   
+}
+.mid{
+    height: 200px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 2px;
+    
+}
+.D{
+    height: 200px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 2px;
+    text-align: center;
+
+}
+.B{
+    height: 90px;
+    width: 90px;
+    border: 1px solid black;
+    
+    display: flex;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+
+}
+.C{
+    height: 90px;
+    width: 90px;
+    border: 1px solid black;
+    display: flex;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+}
